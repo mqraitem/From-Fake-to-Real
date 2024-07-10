@@ -1,0 +1,3 @@
+utk_face:/usr4/cs505/mqraitem/ivc-ml/datasets/utk_face/images
+spuco_animals:/usr4/cs505/mqraitem/ivc-ml/datasets
+celeba:/usr4/cs505/mqraitem/ivc-ml/datasets/CelebAMask-HQ
