@@ -20,7 +20,7 @@ Download [UTKFace](https://susanqq.github.io/UTKFace/)
 - SpuCo Animals  
 Download [SpuCo Animals](https://github.com/BigML-CS-UCLA/SpuCo) 
 
-Please then edit the dir of of each dataset in dataset_dirs.txt. The information required to reproduce the the splits are in data/. The code will automatically load the right splits. 
+Please then provide the dir of of each dataset in dataset_dirs.txt. The information required to reproduce the the splits are in data/. The code will automatically load the right splits. 
 
 ## Image Generation
 
